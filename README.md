@@ -6,4 +6,5 @@ Recently, plotKML was archived on CRAN (for details see: https://github.com/Envi
 
 The readGPX function seems unaffected and so I've made a copy for continued compatability. The only changes I have made is just to add explicit references to the required XML package (https://cran.r-project.org/web/packages/XML/index.html).
 
-The original code was indicated as being released under GPL but did not specify the version. Perhaps this is due to some ambiguity in the licensing of the R codebase? I have assumed GPL-3.0, but note the complication.
+The original code was indicated as being released under GPL but did not specify the version. I have assumed GPL-3.0, but note the complication.
+

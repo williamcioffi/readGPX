@@ -4,6 +4,10 @@
 # for details see: https://github.com/Envirometrix/plotKML/issues/12
 # this function seems unaffected so for continued compatiability
 # I've extracted it and added explicit mentions to the XML package
+# The original code was indicated as being released under GPL but 
+# did not specify the version. I have assumed GPL-3.0, 
+# but note the complication.
+# ~wrc
 
 # Note: corrections in the code by: Berry Boessenkool (berryboessenkool@hotmail.com)
 
